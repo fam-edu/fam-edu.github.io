@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://fam-edu.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>/blog/about/</loc>
+    <loc>https://fam-edu.github.io/blog/about/</loc>
   </url>
   
   <url>
-    <loc>/work/about/</loc>
+    <loc>https://fam-edu.github.io/work/about/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://fam-edu.github.io/</loc>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>https://fam-edu.github.io/blog/</loc>
   </url>
   
   <url>
-    <loc>/work/</loc>
+    <loc>https://fam-edu.github.io/work/</loc>
   </url>
   
   <url>
-    <loc>/school/</loc>
+    <loc>https://fam-edu.github.io/school/</loc>
   </url>
   
 </urlset>
